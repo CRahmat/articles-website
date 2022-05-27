@@ -1,0 +1,74 @@
+[
+    {
+      "id": "one",
+      "postTitle": "How to design a product that can grow itself 10x in year",
+      "postImage": "/thumbnail-2.png",
+      "postDate": "June 28, 2021",
+      "postCategory": "INTERNET",
+      "href": "#",
+      "postDesc": "Auctor Porta. Augue vitae diam mauris faucibus blandit elit per, feugiat leo dui orci. Etiam vestibulum. Nostra netus per conubia dolor.",
+      "image": "/author-4.png",
+      "author": "Jenny Wilson",
+      "authorTitle": "Product Designer"
+    },
+    {
+      "id": "two",
+      "postTitle": "The More Important the Work, the More Important the Rest",
+      "postImage": "/thumbnail-3.png",
+      "postDate": "June 28, 2021",
+      "postCategory": "9 TO 5",
+      "href": "#",
+      "postDesc": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high.",
+      "image": "/author-2.png",
+      "author": "Esther Howard",
+      "authorTitle": "Entrepreneur"
+    },
+    {
+      "id": "three",
+      "postTitle": "Email Love - Email Inspiration, Templates and Discovery",
+      "postImage": "/thumbnail-3.png",
+      "postDate": "June 28, 2021",
+      "postCategory": "INSPIRATIONS",
+      "href": "#",
+      "postDesc": "Consider that for a moment: everything we see around us is assumed to have had a cause and is contingent upon something else.",
+      "image": "/author-3.png",
+      "author": "Esther Howard",
+      "authorTitle": "Entrepreneur"
+    },
+    {
+      "id": "four",
+      "postTitle": "How to design a product that can grow itself 10x in year",
+      "postImage": "/thumbnail-2.png",
+      "postDate": "June 28, 2021",
+      "postCategory": "INTERNET",
+      "href": "#",
+      "postDesc": "Auctor Porta. Augue vitae diam mauris faucibus blandit elit per, feugiat leo dui orci. Etiam vestibulum. Nostra netus per conubia dolor.",
+      "image": "/author-4.png",
+      "author": "Jenny Wilson",
+      "authorTitle": "Product Designer"
+    },
+    {
+      "id": "five",
+      "postTitle": "The More Important the Work, the More Important the Rest",
+      "postImage": "/thumbnail-3.png",
+      "postDate": "June 28, 2021",
+      "postCategory": "9 TO 5",
+      "href": "#",
+      "postDesc": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high.",
+      "image": "/author-2.png",
+      "author": "Esther Howard",
+      "authorTitle": "Entrepreneur"
+    },
+    {
+      "id": "six",
+      "postTitle": "Email Love - Email Inspiration, Templates and Discovery",
+      "postImage": "/thumbnail-3.png",
+      "postDate": "June 28, 2021",
+      "postCategory": "INSPIRATIONS",
+      "href": "#",
+      "postDesc": "Consider that for a moment: everything we see around us is assumed to have had a cause and is contingent upon something else.",
+      "image": "/author-3.png",
+      "author": "Esther Howard",
+      "authorTitle": "Entrepreneur"
+    }
+  ]
